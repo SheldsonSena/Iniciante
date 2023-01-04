@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T21:40:28.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="cHL-3V2cDJn5_XURnpXl" version="20.8.1" type="github"><diagram id="OB2X6vUEykkF65kOH_-Z" name="Página-1">7Vlbc6IwGP01Pu4M4SY+sootHS8t6u7MviEEYRcJE+Jtf/2Gm4jBFqsW29mHWnJIJJyc831fYkvoLrcP2AzdIbKh3+I5e9sSei2eB5zE0X8xsksRSQQpsMCenXUqgIn3F+YjM3Tl2TAqdSQI+cQLy6CFggBapISZGKNNuZuD/PJTQ3MBGWBimT6L/vRs4qaowrcL/BF6Czd/MpA76Z2lmXfO3iRyTRttDiBBawldjBBJr5bbLvRj8nJe0nH9E3f3E8MwIHUGwFl/+qCtVfw0ePI7xuMGGr1vQvota9NfZS+cTZbscgagTQnJmggTFy1QYPpagX7HaBXYMH4MR1tFnwFCIQUBBX9DQnbZ6porgijkkqWf3U2fGT/o5LtlUIRW2IKvvFCuERMvIHmlH79fASpdiJaQ4B0dh6FvEm9dnoeZaWix71fQTC8yps9gHTCs6yO92+oKLaU3ZhagoDfmauN6BE5CM2FhQ01XptLxfL+LfISTsYItQcUWKR4RjP7AgzsKPxdkeU/+GmICt6/Tz9KVDxDTEZnHxUzxm8IwIHeBe2AWmbsRv9JdqDqiIiRqHIMoEKAAXlnpSk2pixdKPRlK38PcHXQIkReQ6OCbn2OgkES7LAnhODid1Z1epM8vJLF/kferhGdUMtAfVINC1IOcPppqhjF7no4NRjxveLBs2CNHOo7DW1aVI215Lku3cSRo3JKdu7DkFe0n1nSf0mSi4cX/tDdAO8v6RB+yed1Fy/kqOj+nm1BxKiOIbClw7jAR6Brx5ChA76vag4CiVMQT5VbxROAYPj+XkOWaQgaXVqrVCVdqc6UFFbmjlUonlo0qFut0HVBaziukZ5kx0SipkIWKCvkTOUnolCsdmTVS+yONBO6jWL6is+rWxeDSwvgi3hWGdkOb6kZSf6r0b5CInR8+q7242VNHel/vJo3zqtHz68+ra54/Cja80HQ5Ctjiv1+Ros+kVrFgNbVzRRIl7hbUSkqZWqHdOLXtrxZQQN2iE8hNRhTAlp199ZeWb2h72qSrGlMtvkw2uFNteBhY2LR6/4FF5O8tsPBfLp2CD6tUL1M/Wy8WCVVLDnQmmqHTlmwuYyUH8yhMmErS7Wj8oyLrjuKP7+OXmT54/IyJ9zg7NO8PcB8HQTCwb3cyy9c1zKWHFLXOUsHx1iGdP7Oze+t77m+HmAv3C8XaunuXZgsNdu9SETu1yTQB6Cy4l5mmD2NY6LMr5PteGMGzN++OA+UT8bTdmXPcTQ7Sq869KgPoO/brtFn8Gpx6pPhNXdD+AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-04T22:27:08.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="4F49VGVljd6WtQgOmMkM" version="20.8.1" type="github">
+  <diagram id="OB2X6vUEykkF65kOH_-Z" name="Página-1">
+    <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eUFTGEvArJLJl9RHweRD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eUFTGEvArJLJl9RHweRD-1" target="eUFTGEvArJLJl9RHweRD-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFTGEvArJLJl9RHweRD-1" value="INICÍO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="14" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h29qSyJVQQBPtb748qPy-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eUFTGEvArJLJl9RHweRD-2" target="h29qSyJVQQBPtb748qPy-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFTGEvArJLJl9RHweRD-2" value="LIGAR O INTERRUPTOR" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="14" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h29qSyJVQQBPtb748qPy-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eUFTGEvArJLJl9RHweRD-8" target="eUFTGEvArJLJl9RHweRD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFTGEvArJLJl9RHweRD-8" value="RETIRAR A LÂMPADA DANIFICADA" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFTGEvArJLJl9RHweRD-12" value="FIM" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFTGEvArJLJl9RHweRD-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eUFTGEvArJLJl9RHweRD-14" target="eUFTGEvArJLJl9RHweRD-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFTGEvArJLJl9RHweRD-14" value="FAZER O DESCARTE DO ITEM DANIFICADO" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="430" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFTGEvArJLJl9RHweRD-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="eUFTGEvArJLJl9RHweRD-16" target="eUFTGEvArJLJl9RHweRD-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eUFTGEvArJLJl9RHweRD-16" value="RETIRAR E INSERIR&amp;nbsp; A NOVA LÂMPADA NA BOQUILHA" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="h29qSyJVQQBPtb748qPy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h29qSyJVQQBPtb748qPy-1" target="h29qSyJVQQBPtb748qPy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h29qSyJVQQBPtb748qPy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h29qSyJVQQBPtb748qPy-1" target="h29qSyJVQQBPtb748qPy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h29qSyJVQQBPtb748qPy-1" value="A lâmpada está acessa?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="19" y="220" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="h29qSyJVQQBPtb748qPy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h29qSyJVQQBPtb748qPy-3" target="eUFTGEvArJLJl9RHweRD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h29qSyJVQQBPtb748qPy-3" value="SIM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h29qSyJVQQBPtb748qPy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h29qSyJVQQBPtb748qPy-8" target="eUFTGEvArJLJl9RHweRD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h29qSyJVQQBPtb748qPy-8" value="NÃO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
